@@ -4,7 +4,7 @@
 
 Este proyecto consiste en la creación de una solución integral de **People Analytics** para un distribuidor minorista con múltiples franquicias. El objetivo principal fue transformar un proceso manual basado en un archivo Excel fragmentados en un ecosistema de datos automatizado y escalable, permitiendo analizar la relación entre el costo laboral y la eficiencia operativa de cada colaborador.
 
-### Arquitectura de Datos (ELT)
+### Arquitectura de Datos
 
 La solución utiliza un enfoque **ELT** dentro de **SQL Server**, estructurado en capas lógicas para garantizar el orden y la integridad de la información:
 
